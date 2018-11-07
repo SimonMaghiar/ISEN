@@ -1,5 +1,5 @@
 # CHECK
-
+This program will check periodicly the change that happens inside of a folder and save the changes into a log file.
 ## Installation
 
 ```bash
